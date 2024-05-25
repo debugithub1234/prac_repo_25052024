@@ -10,14 +10,6 @@ print(c)
 
 # My First push 1
 
-#My second push and see what happen
 
-# My third commit fro github to vc code it is a pull
-
-# fourth pull 
-
-# new push start
-
-# my new push start again
 
 
