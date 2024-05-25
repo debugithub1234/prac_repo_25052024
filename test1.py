@@ -18,8 +18,4 @@ print(c)
 
 # Fifth push
 
-# Sixth push
 
-# seventh push 
-
-# new six
